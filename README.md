@@ -1,2 +1,2 @@
 # chess
-Python3 Chess Engine 
+Python3 Chess
